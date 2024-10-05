@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SwedbankPay</string>
+
+    <string name="activity_content">Activity Content</string>
+    <string name="menu">menu</string>
+    <string name="pay">pay</string>
+    <string name="logga_in">logga_in</string>
+    <string name="Pay">Pay</string>
+
+
 </resources>
